@@ -1,0 +1,2 @@
+La connessione ad Internet può essere effettuata solamente autenticandosi al proxy, ogni pacchetto in entrata e uscita viene comunque verificato dal firewall, ad eccezione delle comunicazioni all'interno della Intranet aziendale, che richiede comunque accesso con una delle utente registrate.
+Dai diversi PC è possibile connettersi, con particolari credenziali con permessi più elevati, per interagire con i database quali NAS e HTTP/Server Web, ma i pacchetti passeranno comunque attraverso un firewall, e non saranno accessibili da PC esterni.
